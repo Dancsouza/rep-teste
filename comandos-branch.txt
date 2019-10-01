@@ -1,0 +1,1 @@
+git checkout -b "Nome da Branch" => "Cria nova branch e troca pra ela local";
