@@ -1,0 +1,5 @@
+git add . => "adicionar alterações do projeto"
+git commit -m " =>"setar mensagem de subida"
+git push => "Subir alterações para repositório na web"
+git pull => "Trazer últimas alterações do repositório"
+git clone <url> => "Clonar repositório da web"
